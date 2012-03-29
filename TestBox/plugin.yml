@@ -1,0 +1,3 @@
+name: TestBox
+main: gcrp.TestBox.TestBox
+version: 0.0.1
