@@ -1,0 +1,4 @@
+name: TestSneaking
+main: gcrp.TestSneaking.TestSneaking
+version: 0.0.1
+
