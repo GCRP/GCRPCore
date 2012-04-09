@@ -1,0 +1,4 @@
+name: GCRPDeath
+main: gcrp.death.Plugin
+version: 0.0.1
+
